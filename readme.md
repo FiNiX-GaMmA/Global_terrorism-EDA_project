@@ -15,4 +15,4 @@ As a security/defense analyst, I will try to do the following:-
 - Exploratory data analysis
 - Try to find out the hot zone of terrorism. 
 - Handle the missing value 
-- Do compare the various region…. visualize it and showing it on global map would be better to understand.
+- Assess the most attacked placed.
